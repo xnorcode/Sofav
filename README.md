@@ -1,9 +1,9 @@
 # Sofav
-Sofav helps you keep track of your Instagram friends that matter most to you
-#### Download it on [Play Store](https://goo.gl/6BFQHC)
+Sofav is the best Instagram caption editor/notepad with embedded hashtags finder
+#### Download it on [Play Store](https://bit.ly/getsofav)bi
 ## Screenshots
 <p align="center">
-  <img height="500" src="https://github.com/andreasioannoutech/Sofav/blob/master/img/img1.png">
-  <img height="500" src="https://github.com/andreasioannoutech/Sofav/blob/master/img/img2.png">
-  <img height="500" src="https://github.com/andreasioannoutech/Sofav/blob/master/img/img3.png">
+  <img height="500" src="https://github.com/xnorcode/Sofav/blob/master/img/sofav-ss-1.png">
+  <img height="500" src="https://github.com/xnorcode/Sofav/blob/master/img/sofav-ss-2.png">
+  <img height="500" src="https://github.com/xnorcode/Sofav/blob/master/img/sofav-ss-3.png">
 </p>
